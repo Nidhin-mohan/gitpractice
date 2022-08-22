@@ -5,3 +5,4 @@ node_module/
 assets/videos/
 *.mp4
 !app.js
+*.php
