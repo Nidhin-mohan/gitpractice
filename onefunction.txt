@@ -4,3 +4,4 @@ threefunction - I have added unnecessaty function
 
 added chart function in aour branch
 
+added a code for logut
