@@ -1,6 +1,7 @@
-i ahve added a very imp dunctionhere
+i ahve added a very imp dunctionhere   edited
 twofuntion -I have added another function here
 threefunction - I have added unnecessaty function
 
 added chart function in aour branch
 
+adding a funtion login via x method
